@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimiseTechnicalTest.AppHost", "OptimiseTechnicalTest.AppHost\OptimiseTechnicalTest.AppHost.csproj", "{D188E4D4-A226-9A6D-8C31-6F6CD12621E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimiseTechnicalTest.Server", "OptimiseTechnicalTest.Server\OptimiseTechnicalTest.Server.csproj", "{C1B9222C-E74A-EBCC-6F68-67F8E2AFE935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D188E4D4-A226-9A6D-8C31-6F6CD12621E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D188E4D4-A226-9A6D-8C31-6F6CD12621E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D188E4D4-A226-9A6D-8C31-6F6CD12621E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D188E4D4-A226-9A6D-8C31-6F6CD12621E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B9222C-E74A-EBCC-6F68-67F8E2AFE935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B9222C-E74A-EBCC-6F68-67F8E2AFE935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B9222C-E74A-EBCC-6F68-67F8E2AFE935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B9222C-E74A-EBCC-6F68-67F8E2AFE935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E30419-9341-4FD2-B3A0-77C7051067C7}
+	EndGlobalSection
+EndGlobal
